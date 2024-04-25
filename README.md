@@ -14,8 +14,6 @@
 
     - O script utiliza o binário `find` do linux;
 
-    - ~Em ambiente Windows, o `find` utilizado é o que vem na instalação do git (`C:/Program Files/Git/usr/bin/find.exe`).~
-
 # Orientações
 
 <details>
